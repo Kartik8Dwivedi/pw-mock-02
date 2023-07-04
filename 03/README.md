@@ -17,3 +17,5 @@ So, finally there are 5 key points to remember about the execution stack:
 3) 1 Global context.
 4) Infinite function contexts.
 5) Each function call creates a new execution context, even a call to itself.
+
+For more better understanding, refer to the attached document.
